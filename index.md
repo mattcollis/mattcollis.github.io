@@ -1,3 +1,4 @@
+![Me](./me.jpg)
 ## Education
 
 ### LeWagon 
