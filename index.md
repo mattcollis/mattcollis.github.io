@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/mattcollis/mattcollis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### LeWagon 
+**_Summer 2017_**
+_Montreal, Canada_ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### McGill University
+**_2013 - 2017_**
+_Montreal, Canada_
 
-### Markdown
+### Online Courses
+- ["_Python for Financial Analysis and Algorithmic Trading_"](https://www.udemy.com/share/10011KB0Afd15XR3Q=/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Technical Skills
 
-```markdown
-Syntax highlighted code block
+**Front-end:**
+HTML5, CSS3
 
-# Header 1
-## Header 2
-### Header 3
+**Back-end:**
+Python, Ruby, Java
 
-- Bulleted
-- List
+**Frameworks:**
+Rails, Django, Flask 
 
-1. Numbered
-2. List
+**Python Libraries:**
+NumPy, Pandas
 
-**Bold** and _Italic_ and `Code` text
+**Other:**
+SQL, Excel VBA, R
 
-[Link](url) and ![Image](src)
-```
+## Languages 
+English (_native_), French (_mother-tongue_), Spanish (_fair_), Russian (_basic_)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Interests 
 
-### Jekyll Themes
+**_Sports_:** Skiing, Muay Thai, Basketball, Hiking
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mattcollis/mattcollis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**_Academic_:** Logic, Ancient History, Probability Theory, Number Theory
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**_Other_:** Chess, game design, digital art
