@@ -4,9 +4,13 @@
 **_Summer 2017_**
 _Montreal, Canada_ 
 
+Full-stack web-development bootcamp covering Ruby on Rails, HTML, CSS and JavaScript
+
 ### McGill University
 **_2013 - 2017_**
 _Montreal, Canada_
+
+Bachelor of Arts, Major in Mathematics, Major in Philosophy, Minor Management
 
 ### Online Courses
 - ["_Python for Financial Analysis and Algorithmic Trading_"](https://www.udemy.com/share/10011KB0Afd15XR3Q=/)
