@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Matt Collis
 description: Artist, developer, writer.
-image: assets/me.jpg
+![me](assets/me.jpg)
