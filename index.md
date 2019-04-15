@@ -42,3 +42,5 @@ English (_native_), French (_mother-tongue_), Spanish (_fair_), Russian (_basic_
 **_Academic_:** Logic, Ancient History, Probability Theory, Number Theory
 
 **_Other_:** Chess, Game Design, Digital Art
+
+_You can get the PDF [here](/assets/mattcollis.pdf)._
